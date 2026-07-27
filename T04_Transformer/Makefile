@@ -38,9 +38,9 @@ define TEX_BEGIN
 \usepackage[a4paper,bindingoffset=0mm,left=20mm,right=20mm,top=5mm,bottom=5mm,footskip=12.0pt]{geometry}\
 \usepackage{pdfpages,fancyhdr,lastpage,pgffor}\
 \pagestyle{fancyplain}\renewcommand{\headrulewidth}{0pt}\
-\lfoot{\small\textsf{Alfons Juan, Jorge Civera, APR 2025/26}}\
+\lfoot{\small\textsf{Alfons Juan, Jorge Civera, RNA 2026/27}}\
 \cfoot{\small\textsf{\thepage\space/\space\pageref{LastPage}}}\
-\rfoot{\small\textsf{ETSINF, DSIC, UPV}}
+\rfoot{\small\textsf{DSIC, UPV}}
 endef
 
 define TEX_END
